@@ -5,7 +5,11 @@ D : Right
 S : Down
 Space : Pause
 
-https://github.com/user-attachments/assets/e40b67f6-6281-4737-83fd-b85f5717fa4f
+
+
+https://github.com/user-attachments/assets/f0fc2545-9887-4091-9190-ec99b64b2440
+
+
 
 
 
